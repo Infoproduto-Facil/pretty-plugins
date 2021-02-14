@@ -1,6 +1,6 @@
 # Pretty Plugins
 
-**INACTIVE NOTICE: This plugin is unsupported by WPMUDEV, we've published it here for those technical types who might want to fork and maintain it for their needs.**
+**This is a Fork of pretty-plugins by WPMUDEV. Let's make it work!
 
 ## Translations
 
